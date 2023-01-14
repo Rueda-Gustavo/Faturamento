@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xVioupQyfCan+F3EK/IhJzNXwdLO988tJ3Kio3NveFJjCryHjcGZRve2doIVXRrBQs/Uf1DzljaPqYMKZA5B6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\source\\repos\\Faturamento\\Faturamento\\Faturamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

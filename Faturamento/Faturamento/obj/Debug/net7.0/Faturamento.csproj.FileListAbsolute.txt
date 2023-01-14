@@ -1,0 +1,17 @@
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\bin\Debug\net7.0\Faturamento.exe
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\bin\Debug\net7.0\Faturamento.deps.json
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\bin\Debug\net7.0\Faturamento.runtimeconfig.json
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\bin\Debug\net7.0\Faturamento.dll
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\bin\Debug\net7.0\Faturamento.pdb
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\obj\Debug\net7.0\Faturamento.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\obj\Debug\net7.0\Faturamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\obj\Debug\net7.0\Faturamento.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\obj\Debug\net7.0\Faturamento.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\obj\Debug\net7.0\Faturamento.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\obj\Debug\net7.0\Faturamento.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\obj\Debug\net7.0\Faturamento.dll
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\obj\Debug\net7.0\refint\Faturamento.dll
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\obj\Debug\net7.0\Faturamento.pdb
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\obj\Debug\net7.0\Faturamento.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\Faturamento\Faturamento\obj\Debug\net7.0\ref\Faturamento.dll
